@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Viok | XRAK",
+  title: "Viok",
   description: "私有视频网站",
 };
 
